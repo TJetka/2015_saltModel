@@ -1,0 +1,2 @@
+"comp_out.total_cost_direct" "comp_out.total_cost_indirect" "comp_out.total_cost_public" "comp_out.total_death" "comp_out.mean_death" "comp_out.total_qaly" "comp_out.total_campaign_cost"
+"1" 18497882468.6202 7442043731.25682 24685386737.0269 254948.578169132 9805.71454496663 -1392549.52592286 578256152.35221
